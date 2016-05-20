@@ -7,7 +7,7 @@ application.debug = True
 
 @application.route('/')
 def hello_world():
-  return "Hello world cform!"
+  return "Hello world cformv2!"
 
 @application.route('/env')
 def env():
